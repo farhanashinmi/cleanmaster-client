@@ -1,0 +1,98 @@
+[
+    {
+              
+        "title": "Home Cleaning",
+        "img": "../src/assets/asset/services/1.jpg",
+        "price": "750.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+        
+    },
+    {
+              
+        "title": "Kitchen Cleaning",
+        "img": "../src/assets/asset/services/2.jpg",
+        "price": "200.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+        
+    },
+    {
+              
+        "title": "Office Cleaning",
+        "img": "../src/assets/asset/services/3.jpg",
+        "price": "700.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+       
+    },
+    {
+              
+        "title": "Bathroom Cleaning",
+        "img": "../src/assets/asset/services/4.jpg",
+        "price": "250.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+
+    },
+    {
+              
+        "title": "Glass Cleaning",
+        "img": "../src/assets/asset/services/5.jpg",
+        "price": "300.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+   
+    },
+    {
+              
+        "title": "School Cleaning",
+        "img": "../src/assets/asset/services/6.jpg",
+        "price": "600.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+       
+    },
+    {
+              
+        "title": "Home Cleaning",
+        "img": "../src/assets/asset/services/1.jpg",
+        "price": "750.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+        
+    },
+    {
+              
+        "title": "Kitchen Cleaning",
+        "img": "../src/assets/asset/services/2.jpg",
+        "price": "200.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+        
+    },
+    {
+              
+        "title": "Office Cleaning",
+        "img": "../src/assets/asset/services/3.jpg",
+        "price": "700.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+       
+    },
+    {
+              
+        "title": "Bathroom Cleaning",
+        "img": "../src/assets/asset/services/4.jpg",
+        "price": "250.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+
+    },
+    {
+              
+        "title": "Glass Cleaning",
+        "img": "../src/assets/asset/services/5.jpg",
+        "price": "300.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+   
+    },
+    {
+              
+        "title": "School Cleaning",
+        "img": "../src/assets/asset/services/6.jpg",
+        "price": "600.00",
+        "description": "With the help of experienced and reliable cleaning professionals, homes become more inviting, comfortable, and free from the burden of household tasks."
+       
+    }
+]
